@@ -107,4 +107,4 @@
 
 <h1 align='center'>🌐Socials </h1>
 
-<p align='center'><a href='https://linktr.ee/HolyC0w'>LinkTree</a><br> <a href='https://h0lycow.github.io/h0lycow/'>Portfolio</a></p>
+<p align='center'><a href='https://linktr.ee/HolyC0w'>LinkTree</a><br> <a href='https://h0lycow.github.io'>Portfolio</a></p>
