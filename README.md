@@ -70,7 +70,7 @@
 
 <img src='https://github.com/h0lycow/h0lycow/blob/main/assets/undraw_version_control_re_mg66.svg' align='right' width='40%'/>
 
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=h0lycow&&theme=dracula&hide=assembly' align='center'/></p>
+<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=h0lycow&&theme=dracula&hide=assembly&lua' align='center'/></p>
 
 <br>
 
