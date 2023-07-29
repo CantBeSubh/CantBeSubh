@@ -70,25 +70,25 @@
 
 <h1 align='center'>📊Github Stats</h1> 
 
-<img src='https://github.com/h0lycow/h0lycow/blob/main/assets/undraw_version_control_re_mg66.svg' align='right' width='40%'/>
+<img src='https://github.com/CantBeSubh/CantBeSubh/blob/main/assets/undraw_version_control_re_mg66.svg' align='right' width='40%'/>
 
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=h0lycow&&theme=dracula&hide=lua,assembly' align='center'/></p>
-
-<br>
-
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/?username=h0lycow&theme=dracula&show_icons=true' align='center'/></p>
+<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CantBeSubh&&theme=dracula&hide=lua,assembly' align='center'/></p>
 
 <br>
 
-<p align='center'><img src='https://github-profile-trophy.vercel.app/?username=h0lycow&theme=dracula&row=1&column=6' align='center'/></p>
+<p align='center'><img src='https://github-readme-stats.vercel.app/api/?username=CantBeSubh&theme=dracula&show_icons=true' align='center'/></p>
 
 <br>
 
-<p align='center'><img src='https://activity-graph.herokuapp.com/graph?username=h0lycow&theme=dracula' align='center'/></p>
+<p align='center'><img src='https://github-profile-trophy.vercel.app/?username=CantBeSubh&theme=dracula&row=1&column=6' align='center'/></p>
 
 <br>
 
-<p align='center'><img align="center" src="https://github.com/h0lycow/h0lycow/blob/output/github-contribution-grid-snake.svg" /></p>
+<p align='center'><img src='https://activity-graph.herokuapp.com/graph?username=CantBeSubh&theme=dracula' align='center'/></p>
+
+<br>
+
+<p align='center'><img align="center" src="https://github.com/CantBeSubh/CantBeSubh/blob/output/github-contribution-grid-snake.svg" /></p>
 		 
 <p align='center'> <img src="https://leetcard.jacoblin.cool/HolyC0w?theme=dark&font=Rubik&ext=heatmap"/></p>
 
@@ -113,4 +113,4 @@
 
 <h1 align='center'>🌐Socials </h1>
 
-<p align='center'><a href='https://linktr.ee/HolyC0w'>LinkTree</a><br> <a href='https://h0lycow.github.io'>Portfolio</a></p>
+<p align='center'><a href='https://linktr.ee/CantBeSubh'>LinkTree</a><br> <a href='https://subhranshu.com/'>Portfolio</a></p>
