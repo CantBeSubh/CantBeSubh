@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: h0lycow/h0lycow@master
+      - uses: CantBeSubh/CantBeSubh@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
