@@ -84,7 +84,7 @@
 
 <br>
 
-<p align='center'><img align="center" src="https://github.com/CantBeSubh/CantBeSubh/blob/output/github-contribution-grid-snake.svg" /></p>
+<p align='center'><img align="center" src="https://github.com/CantBeSubh/CantBeSubh/blob/output/github-contribution-grid-snake-dark.svg" /></p>
 		 
 <p align='center'> 
 	<img src="https://leetcard.jacoblin.cool/HolyC0w?theme=dark&font=Rubik&ext=heatmap"/> 
