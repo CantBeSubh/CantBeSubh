@@ -1,6 +1,15 @@
-![HolyCow was here](https://github.com/h0lycow/h0lycow/blob/main/assets/github-headerv2.gif)
 
-<p align='center'><img src='https://profile-counter.glitch.me/h0lycow/count.svg' align='center'/></p>
+![Hello Myself,Subhranshu](https://github.com/CantBeSubh/CantBeSubh/assets/83113185/cadf7712-af12-4f6d-a1a1-8993700cb002)
+
+<p align='center'>
+	🌐 Portfolio
+	<br/>
+	https://subhranshu.com
+	<br/><br/>
+	🤝 Hire me: 
+	<br/>
+	<a href="mailto:socials.subhranshu@gmail.com">socials.subhranshu@gmail.com</a>
+</p>
 
 <h1 align='center'>✨whoami</h1> 
 
@@ -9,18 +18,20 @@
 	<img width="50%" align="right" alt="Github Image" src="https://github.com/h0lycow/h0lycow/blob/main/assets/undraw_code_thinking_re_gka2.svg" '/>
 </a>
 	
-🎷I am dedicated to FrontEnd Web Development/Cyber Security and aspire to become a Front-End Devloper and a part time Bug Bounty Hunter. 
+⭐Hello! Myself Subhranshu.Final year student at VIT, Chennai
 
-🎁Keeping myself updated with latest trends in cybersecurity and webdev is what I love to do. 
+⭐Junior Software Enginner looking for part-time/full-time opportunities.
 
-⚡My current aim is to get a decent job as a Front-End Devloper and my future plan includes transitioning into the AppSec industry.
-  
+⭐Passionate about Frontend, Backend, Fullstack, Cloud and DevSecOps.
+
+⭐React, Vue, NextJS, NuxtJS, Tailwind
+
+⭐Years of Experience: 2
 </p>
 
 <h1 align='center'>⚙Technical Skills </h1>
 
 <p align='center'>
-	<img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white'/>
 	<img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'/>
 <br>
 	<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
@@ -34,22 +45,17 @@
 <br>
 	<img src='https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white'/>
 	<img src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'/>
-	<img src='https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white'/>
-	<img src='https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7'/>
-	<img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white'/>
 <br>
 	<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
 	<img src='https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white'/>
 	<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
-	<img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
+<br>
+	<img src='https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D'/>
+	<img src='https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82'/>
+	<img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'/>
 <br>
 	<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/>
 	<img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'/>
-	<img src='https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white'/>
-<br>
-	<img src='https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white'/>
-	<img src='https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white'/>
-	<img src='https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white'/>
 <br>
 	<img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'/>
@@ -60,10 +66,6 @@
 	<img src='https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white'/>
-<br>
-	<img src='https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white'/>
-	<img src='https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white'/>
-
 </p>
 
 <h1 align='center'>📊Github Stats</h1> 
