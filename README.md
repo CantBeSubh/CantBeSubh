@@ -72,7 +72,7 @@
 
 <img src='https://github.com/CantBeSubh/CantBeSubh/blob/main/assets/undraw_version_control_re_mg66.svg' align='right' width='40%'/>
 
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CantBeSubh&&theme=dracula&hide=lua,assembly' align='center'/></p>
+<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CantBeSubh&&theme=dracula&hide=lua,assembly,Jupyter+Notebook' align='center'/></p>
 
 <br>
 
