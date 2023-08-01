@@ -6,7 +6,7 @@
 	<br/>
 	https://subhranshu.com
 	<br/><br/>
-	🤝 Hire me: 
+	🤝 Hire me
 	<br/>
 	<a href="mailto:socials.subhranshu@gmail.com">socials.subhranshu@gmail.com</a>
 </p>
@@ -20,13 +20,13 @@
 	
 ⭐Hello! Myself Subhranshu.Final year student at VIT, Chennai
 
-⭐Junior Software Enginner looking for part-time/full-time opportunities.
+⭐Software Engineering enthusiast looking for part-time/full-time opportunities.
 
 ⭐Passionate about Frontend, Backend, Fullstack, Cloud and DevSecOps.
 
 ⭐React, Vue, NextJS, NuxtJS, Tailwind
 
-⭐Years of Experience: 2
+⭐Graduation Year: April 2024
 </p>
 
 <h1 align='center'>⚙Technical Skills </h1>
