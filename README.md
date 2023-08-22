@@ -86,10 +86,7 @@
 
 <p align='center'><img align="center" src="https://github.com/CantBeSubh/CantBeSubh/blob/output/github-contribution-grid-snake-dark.svg" /></p>
 		 
-<p align='center'> 
-	<img src="https://leetcard.jacoblin.cool/CantBeSubh?theme=dark&font=Rubik&ext=heatmap"/> 
-	<img src="https://raw.githubusercontent.com/CantBeSubh/cf-stats/d4a93754660b63031d3634ec7588c513d5504a4f/output/light_card.svg#gh-dark-mode-only"/>
-</p>
+
 
 <p align='center'></p>
 		 
