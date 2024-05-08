@@ -6,27 +6,47 @@
 	<br/>
 	https://subhranshu.com
 	<br/><br/>
+	📎 Resume
+	<br/>
+	<a href="https://dub.subhranshu.com/Resume">Subhranshu's Resume 2024</a>
+	<br/><br/>
 	🤝 Hire me
 	<br/>
-	<a href="mailto:socials.subhranshu@gmail.com">socials.subhranshu@gmail.com</a>
+	<a href="mailto:work.subhranshu@gmail.com">work.suhbranshu@gmail.com</a>
 </p>
 
 <h1 align='center'>✨whoami</h1> 
 
 <p>
 <a  href="#">
-	<img width="50%" align="right" alt="Github Image" src="https://github.com/h0lycow/h0lycow/blob/main/assets/undraw_code_thinking_re_gka2.svg" '/>
+	<img width="30%" align="right" alt="Github Image" src="https://github.com/h0lycow/h0lycow/blob/main/assets/undraw_code_thinking_re_gka2.svg" '/>
 </a>
 	
-⭐Hello! Myself Subhranshu.Final year student at VIT, Chennai
+⭐ Hello! Myself Subhranshu.
 
-⭐Software Engineering enthusiast looking for part-time/full-time opportunities.
+⭐ Fullstack Developer with 1 year of experience
 
-⭐Passionate about Frontend, Backend, Fullstack, Cloud and DevSecOps.
+⭐ Worked with 2 startups as a Frontend Developer and Product Engineer.
 
-⭐React, Vue, NextJS, NuxtJS, Tailwind
+⭐ Roles I'm interested in - Frontend Developer, Backend Developer, Fullstack Engineer, GenAI Engineer, Devops Engineer
 
-⭐Graduation Year: April 2024
+⭐ Technologies: 
+- Languages: Python, C, C++, HTML, Javascript, Typescript, CSS, SQL, JAVA
+- Frameworks: ReactJS, VueJS, NextJS, NuxtJS, ThreeJS, Langchain, LangSmith, LangGraph, Lamma Index, Django, Express, Fast API 
+- Libraries: Framer Motion, GSAP, Resend, TailwindCSS, Jotai, Prisma, Drizzle, Upstash, Zustand, Zod
+- Platforms: Linux, Web, Windows, Mac, AWS, GCP
+- Tools: Git, Github, Kubernetes, Docker, Jenkins, Grafana, Prometheus, GraphQL, tRPC, Vercel
+- DBMS: PostgreSQL, MySQL, SQLite, Firestore, Supabase , MongoDB
+- Gen AI: OpenAI, Anthropic, Perplexity, Google Vertex, Hugging Face, Olamma, Replacte, TogetherAI, Amazon Sagemaker
+
+⭐ Resume: https://dub.subhranshu.com/Resume
+
+⭐ Portfolio: https://subhranshu.com/
+
+⭐ LinkedIn: [LinkedIn/subhranshu-pati](https://www.linkedin.com/in/subhranshu-pati/)
+
+⭐ Email: [work.suhbranshu@gmail.com](mailto:work.suhbranshu@gmail.com)
+
 </p>
 
 <h1 align='center'>⚙Technical Skills </h1>
@@ -92,7 +112,7 @@
 		 
 <br>
 																       
-<h1 align='center'>🎮Hobbies</h1>
+<h1 align='center'>🎮 Hobbies</h1>
 
 - Video Games(Multiplayer FPS, RPG, 3D/2D Platform)
 
@@ -109,4 +129,12 @@
 
 <h1 align='center'>🌐Socials </h1>
 
-<p align='center'><a href='https://linktr.ee/CantBeSubh'>LinkTree</a><br> <a href='https://subhranshu.com/'>Portfolio</a></p>
+<p align='center'>
+	<a href='https://linktr.ee/CantBeSubh'>LinkTree</a>
+	<br> 
+	<a href='https://subhranshu.com/'>Portfolio</a>
+	<br> 
+	<a href='https://twitter.com/cantbesubh'>Twitter</a>
+	<br> 
+	<a href='https://www.linkedin.com/in/subhranshu-pati/'>LinkedIn</a>
+</p>
