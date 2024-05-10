@@ -12,7 +12,7 @@
 	<br/><br/>
 	🤝 Hire me
 	<br/>
-	<a href="mailto:work.subhranshu@gmail.com">work.suhbranshu@gmail.com</a>
+	<a href="mailto:work.suhbranshu@gmail.com">work.suhbranshu@gmail.com</a>
 </p>
 
 <h1 align='center'>✨whoami</h1> 
