@@ -8,7 +8,7 @@
 	<br/><br/>
 	📎 Resume
 	<br/>
-	<a href="https://dub.subhranshu.com/Resume">Subhranshu's Resume 2024</a>
+	<a href="https://dub.subhranshu.com/Resume">Subhranshu's Resume 2025</a>
 	<br/><br/>
 	🤝 Hire me
 	<br/>
@@ -24,20 +24,19 @@
 	
 ⭐ Hello! Myself Subhranshu.
 
-⭐ Fullstack Developer with 1 year of experience
+⭐ Fullstack Developer with 2 years of experience
 
-⭐ Worked with 2 startups as a Frontend Developer and Product Engineer.
+⭐ Worked with 2 startups building AI Products.
 
-⭐ Roles I'm interested in - Frontend Developer, Backend Developer, Fullstack Engineer, GenAI Engineer, Devops Engineer
+⭐ Roles I'm interested in - Frontend Developer, Backend Developer, Fullstack Engineer, GenAI Engineer, Product Engineer
 
 ⭐ Technologies: 
-- Languages: Python, C, C++, HTML, Javascript, Typescript, CSS, SQL, JAVA
-- Frameworks: ReactJS, VueJS, NextJS, NuxtJS, ThreeJS, Langchain, LangSmith, LangGraph, Lamma Index, Django, Express, Fast API 
-- Libraries: Framer Motion, GSAP, Resend, TailwindCSS, Jotai, Prisma, Drizzle, Upstash, Zustand, Zod
-- Platforms: Linux, Web, Windows, Mac, AWS, GCP
-- Tools: Git, Github, Kubernetes, Docker, Jenkins, Grafana, Prometheus, GraphQL, tRPC, Vercel
-- DBMS: PostgreSQL, MySQL, SQLite, Firestore, Supabase , MongoDB
-- Gen AI: OpenAI, Anthropic, Perplexity, Google Vertex, Hugging Face, Olamma, Replacte, TogetherAI, Amazon Sagemaker
+- Languages: Python, Javascript, Typescript
+- Frameworks: ReactJS, NextJS, ThreeJS, Langchain, LangGraph, Fast API 
+- Libraries: Framer Motion, RTK, RTK Query, Jotai, Upstash, Zustand, Zod
+- ORMS/ODM: Prisma, Drizzle, Beanie
+- DBMS: PostgreSQL, MySQL, SQLite, Firestore, Supabase, MongoDB
+- Generative AI: OpenAI, Anthropic, Perplexity, Google Vertex, Hugging Face, Olamma, Replacte, TogetherAI, Amazon Sagemaker
 
 ⭐ Resume: https://dub.subhranshu.com/Resume
 
