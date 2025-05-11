@@ -24,7 +24,7 @@
 	
 ⭐ Hello! Myself Subhranshu.
 
-⭐ Fullstack Developer with 2 years of experience
+⭐ Fullstack Developer with 1 years of experience
 
 ⭐ Worked with 2 startups building AI Products.
 
